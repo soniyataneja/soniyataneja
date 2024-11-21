@@ -25,7 +25,7 @@ style = "vertical-align: middle;"> </a>
 
 Web development | Competitive Programming | Open Source Contributions
 
-<h2> 📊 The Chronicles of My Digital Realm</h2>
+<h3> 📊 The Chronicles of My Digital Realm</h3>
 <p align="center">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniyataneja&show_icons=true&theme=highcontrast&layout=compact">
 </p>
