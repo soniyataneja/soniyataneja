@@ -25,8 +25,7 @@ style = "vertical-align: middle;"> </a>
 
 Web development | Competitive Programming | Open Source Contributions
 
-<h2> ## 📊 The Chronicles of My Digital Realm</h2>
-
+<h2> 📊 The Chronicles of My Digital Realm</h2>
 <p align="center">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniyataneja&show_icons=true&theme=highcontrast&layout=compact">
 </p>
@@ -34,6 +33,7 @@ Web development | Competitive Programming | Open Source Contributions
 <p align="left">
   <img  src="https://github-readme-stats.vercel.app/api?username=soniyataneja&show_icons=true&theme=highcontrast" width="48%">
 </p>
+<br/>
 
 <!-- ![](https://leetcard.jacoblin.cool/SPARSH_SINGHAL?ext=heatmap) -->
 
